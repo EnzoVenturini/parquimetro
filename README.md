@@ -43,4 +43,5 @@ O usuário informa um valor em reais e a aplicação retorna o **tempo de perman
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio
+   git clone https://github.com/EnzoVenturini/parquimetro
+
